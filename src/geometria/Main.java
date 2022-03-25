@@ -34,7 +34,7 @@ public class Main {
 	
 	triangulo triangulo = new triangulo();
 	triangulo.setLados(10 < 15);
-	System.out.println("A area triangulo: " + triangulo.calculodeArea());
-	System.out.println("O desenho do triangulo é: ");
+	System.out.println("A area triangulo: " + triangulo.calculoArea());
+	System.out.println("O desenho do triangulo Ã©: ");
 	triangulo.desenho();
 }
