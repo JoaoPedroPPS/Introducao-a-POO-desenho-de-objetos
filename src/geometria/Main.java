@@ -1,4 +1,4 @@
-package geometrica;
+package geometria;
 
 public class Main {
 
