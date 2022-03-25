@@ -23,13 +23,20 @@ public class triangulo {
 	}
 	public void desenho(){
 		
-		for (int i = 0; i < base; i++) {
-			System.out.print(". ");
-	}
-		for (int x=0; x<meio;x++) {
-			for (int i = x; i < base; i++) {
+		for(int i=0;i<base+1;i++){
+			for(int j=0;j<i;j++){
 				System.out.print(". ");
-		}
+			   }
+		System.out.println("");
 }
+        
+        
+          
+}
+        
+        
+          }
+}
+
 	}
 }
